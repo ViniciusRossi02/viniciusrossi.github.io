@@ -1,0 +1,40 @@
+header {
+    top: 0;
+    height: 55px;
+    width: 100%;
+    background-color: #1e1a1a;
+    padding: 20px;
+    color: white;
+}
+
+header a {
+    color: #f1eeee;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    padding: 20px;
+    background-color: #bcbcbc;
+}
+
+footer {
+    bottom: 0;
+    background-color: #1e1a1a;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+.professor {
+    font-weight: bold;
+}

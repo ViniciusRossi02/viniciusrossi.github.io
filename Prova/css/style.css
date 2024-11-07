@@ -1,0 +1,85 @@
+/* Define estilos para todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Define estilos para o corpo do documento */
+body {
+    display: inline;
+    align-content: center;
+    background-color: #9e9f9f;
+    color: #f1eeee;
+    text-align: center;
+}
+
+/* Define estilos para as imagens dentro da tag <main> */
+main img {
+    padding-bottom: 20px;
+}
+
+/* Define estilos para os títulos dentro da tag <main> */
+main h1 {
+    padding-bottom: 20px;
+}
+
+/* Define estilos para os parágrafos dentro da tag <main> */
+main p {
+    padding-bottom: 10px;
+}
+
+/* Define estilos para o cabeçalho do documento */
+header {
+    top: 0;
+    height: 55px;
+    width: 100%;
+    background-color: #1e1a1a;
+    padding: 20px;
+}
+
+/* Define estilos para os links dentro do cabeçalho */
+header a {
+    color: #f1eeee;
+}
+
+/* Define estilos para todos os links */
+a {
+    text-decoration: none;
+}
+
+/* Define estilos para a tag <main> */
+main {
+    padding: 20px;
+}
+
+/* Define estilos para a tabela */
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Define estilos para as células de cabeçalho e células de dados da tabela */
+table th,
+table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Define estilos para as células de dados da tabela */
+table td {
+    background-color: #f1eeee;
+    color: #1e1a1a;
+}
+
+/* Define estilos para o rodapé do documento */
+footer {
+    bottom: 0;
+    background-color: #1e1a1a;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}

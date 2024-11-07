@@ -1,0 +1,70 @@
+
+/*Define o estilo de todos elementos*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Define o estilo do cabeçalho */
+header {
+    top: 0;
+    height: 55px;
+    width: 100%;
+    background-color: #1e1a1a;
+    padding: 20px;
+}
+
+/* Define o estilo do corpo */
+body {
+    display: inline;
+    height: 83vh;
+    background-color: #9e9f9f;
+    color: #f1eeee;
+    text-align: center;
+}
+
+/* Define o estilo dos links dentro do cabeçalho */
+header a {
+    text-decoration: none;
+    color: #f1eeee;
+}
+
+/* Define o estilo das imagens */
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 600px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+
+/* Define o estilo dos títulos de nível 1 no corpo */
+body h1 {
+    padding: 20px;
+}
+
+/* Define o estilo dos títulos de nível 2 no corpo */
+body h2 {
+    padding-bottom: 20px;
+}
+
+/* Define o estilo dos parágrafos no corpo */
+body p {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+
+/* Define o estilo do rodapé */
+footer {
+    bottom: 0;
+    background-color: #1e1a1a;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}

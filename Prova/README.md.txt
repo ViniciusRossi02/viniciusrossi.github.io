@@ -1,0 +1,1 @@
+Olá, aqui neste documento existe um prova feita em dupla por mim Vinicius Rossi e pelo mu amigo Gustavo Vono, pela matéria de linguagem de programação do Prof Tiago Silva
